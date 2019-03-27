@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/zzl/clion/workplace/suanfaC/Chapterthree/Palindromes/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+w32api/wsman.h
+-
+w32api/d2d1helper.h
+-
+

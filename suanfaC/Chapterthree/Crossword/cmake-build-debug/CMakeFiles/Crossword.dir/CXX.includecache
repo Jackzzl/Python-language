@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/zzl/clion/workplace/suanfaC/Chapterthree/Crossword/main.cpp
+cassert
+-
+cctype
+-
+iomanip
+-
+functional
+-
+algorithm
+-
+cstring
+-
+string
+-
+vector
+-
+map
+-
+

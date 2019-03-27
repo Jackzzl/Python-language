@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Score.dir/main.c.o  -o Score.exe -Wl,--out-implib,libScore.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

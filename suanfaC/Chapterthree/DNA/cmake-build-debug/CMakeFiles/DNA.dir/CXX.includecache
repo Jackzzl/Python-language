@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/zzl/clion/workplace/suanfaC/Chapterthree/DNA/main.cpp
+cstdio
+-
+cassert
+-
+cctype
+-
+functional
+-
+algorithm
+-
+cstring
+-
+string
+-
+iostream
+-
+vector
+-
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/zzl/clion/workplace/rengongzhineng/shiyan7/main.cpp
+cstdio
+-
+ctime
+-
+cstdlib
+-
+cstring
+-
+queue
+-
+string
+-
+set
+-
+stack
+-
+map
+-
+cmath
+-
+vector
+-
+iostream
+-
+algorithm
+-
+time.h
+-
+cstdlib
+-
+
