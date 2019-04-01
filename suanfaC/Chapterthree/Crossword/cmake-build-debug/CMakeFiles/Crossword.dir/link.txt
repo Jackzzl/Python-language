@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Crossword.dir/main.cpp.o  -o Crossword.exe -Wl,--out-implib,libCrossword.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

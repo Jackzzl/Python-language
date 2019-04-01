@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/subsequence.dir/main.c.o  -o subsequence.exe -Wl,--out-implib,libsubsequence.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

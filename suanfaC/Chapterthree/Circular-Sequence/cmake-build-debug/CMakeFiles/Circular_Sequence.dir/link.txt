@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Circular_Sequence.dir/main.c.o  -o Circular_Sequence.exe -Wl,--out-implib,libCircular_Sequence.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

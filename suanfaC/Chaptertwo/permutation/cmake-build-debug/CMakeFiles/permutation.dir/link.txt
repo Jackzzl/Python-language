@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/permutation.dir/main.c.o  -o permutation.exe -Wl,--out-implib,libpermutation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

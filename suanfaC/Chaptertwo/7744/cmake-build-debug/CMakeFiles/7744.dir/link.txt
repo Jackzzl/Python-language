@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/7744.dir/main.c.o  -o 7744.exe -Wl,--out-implib,lib7744.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
