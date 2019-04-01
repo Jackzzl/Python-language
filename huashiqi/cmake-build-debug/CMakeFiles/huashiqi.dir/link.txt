@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/huashiqi.dir/main.c.o  -o huashiqi.exe -Wl,--out-implib,libhuashiqi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

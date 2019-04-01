@@ -1,3 +1,0 @@
-/cygdrive/e/zzl/clion/workplace/rengongzhineng/shiyan3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/e/zzl/clion/workplace/rengongzhineng/shiyan3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/e/zzl/clion/workplace/rengongzhineng/shiyan3/cmake-build-debug/CMakeFiles/shiyan3.dir

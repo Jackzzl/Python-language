@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/shiyan4n.dir/main.cpp.o  -o shiyan4n.exe -Wl,--out-implib,libshiyan4n.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
